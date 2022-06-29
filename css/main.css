@@ -3,38 +3,41 @@ html, body {
   padding: 0;
 }
 
+
+.logo {
+  width: 128px;
+  height: 128px;
+  margin: 0;
+  padding: 0;
+}
+
 #title {
-  margin: auto;
   padding: 0;
   font-family: 'Google Sans Display';
   font-size: 42px;
-  width: 500px;
   height: auto;
   text-align: center;
   margin-bottom: 14px;
+  margin-top: 12px;
 }
 
 #header {
   background-color: #E9E3DB;
-  height: 220px;
+  height: 340px;
   width: auto;
   color: #3C4043;
-  padding-top: 40px;
+  text-align: center;
 }
 
 .sub_title {
-  margin: auto;
   padding: 0;
   font-family: 'Google Sans Display';
   font-size: 24px;
-  width: 570px;
   height: auto;
   margin-bottom: 26px;
 }
 
 .code {
-  margin: auto;
-  width: 120px;
 }
 
 a {
