@@ -3,7 +3,6 @@ html, body {
   padding: 0;
 }
 
-
 .logo {
   width: 128px;
   height: 128px;
@@ -27,6 +26,7 @@ html, body {
   width: auto;
   color: #3C4043;
   text-align: center;
+  padding-top: 26px;
 }
 
 .sub_title {
