@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  margin: auto;
+  padding: 0;
+  font-family: 'Google Sans Display';
+  font-size: 42px;
+  width: 500px;
+  height: auto;
+  text-align: center;
+}
+
+#header {
+  background-color: #E9E3DB;
+  height: 400px;
+  width: auto;
+  color: #3C4043;
+  padding-top: 40px;
+}
+
+.sub_text {
+  margin: auto;
+  padding: 0;
+  font-family: 'Google Sans Display';
+  font-size: 24px;
+  width: 500px;
+  height: auto;
+}
+
+.code {
+  margin: auto;
+  width: 120px;
+}
+
+a {
+  color: #3C4043;
+}
+
