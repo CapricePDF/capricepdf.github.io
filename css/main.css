@@ -22,13 +22,14 @@ html, body {
   padding-top: 40px;
 }
 
-.sub_text {
+.sub_title {
   margin: auto;
   padding: 0;
   font-family: 'Google Sans Display';
   font-size: 24px;
-  width: 500px;
+  width: 570px;
   height: auto;
+  margin-bottom: 26px;
 }
 
 .code {
