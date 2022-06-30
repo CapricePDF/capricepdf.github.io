@@ -22,11 +22,10 @@ html, body {
 
 #header {
   background-color: #E9E3DB;
-  height: 340px;
-  width: auto;
   color: #3C4043;
   text-align: center;
   padding-top: 26px;
+  padding-bottom: 20px;
 }
 
 .sub_title {
